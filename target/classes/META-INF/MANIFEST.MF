@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: alessiopinna
+Build-Jdk: 11.0.9.1
+Implementation-Title: ProjectManager
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ProjectManager
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ProjectManager
+Created-By: Maven Integration for Eclipse
+
