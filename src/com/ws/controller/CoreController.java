@@ -12,6 +12,6 @@ public class CoreController {
 	@CrossOrigin("*")
 	@RequestMapping(value = "/enable" ,  produces = "application/json",  method = RequestMethod.GET)
 	public boolean enableProject() {
-		return false;
+		return true;
 	}
 }
